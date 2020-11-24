@@ -1,5 +1,4 @@
 " fff.vim
-
 if exists('g:loaded_fff')
 	finish
 endif
