@@ -18,13 +18,13 @@ A plugin for vim/neovim which allows you to use [**`fff`**](https://github.com/d
 
 ## Installation
 
-Using [vim-plug](https://github.com/junegunn/vim-plug):
+Using [vundle](https://github.com/VundleVim/Vundle.vim):
 
 ```vim
-Plug 'dylanaraps/fff.vim'
+Plugin 'dylanaraps/fff.vim'
 ```
 
-Then run `:PlugUpdate`
+Then run `:PluginInstall`
 
 ## Usage
 
